@@ -2,3 +2,6 @@ pandas
 numpy 
 matplotlib 
 scikit-learn
+kagglehub
+scipy
+seaborn
