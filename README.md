@@ -2,8 +2,8 @@
 
 In this project, I aim to analyze sleep health and lifestyle habits to understand how they influence everyday life. To achieve this, I followed several key steps:
 
-- EDA (Exxploratory Data Analysis)
-- Feature Engineering 
+- EDA (Exxploratory Data Analysis).
+- Feature Engineering. 
 - PCA (Principal Component Analysis) to reduce dimensionality.
 - KMeans in order to classify the whole dataset into clusters.
 
