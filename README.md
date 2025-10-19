@@ -9,7 +9,9 @@ In this project, I aim to analyze sleep health and lifestyle habits to understan
 
 The project currently concludes with the clustering analysis, where the dataset is partitioned into four distinct groups based on similarities in sleep and lifestyle features.
 
-The dataset is from kaggle (https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data). The data features:
+The dataset is from kaggle (https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data). 
+
+Dataset features:
 
 Person ID: An identifier for each individual.
 
@@ -38,5 +40,5 @@ Daily Steps: The number of steps the person takes per day.
 Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
 
-🔧 Possible Improvements
+🔧 Possible Improvements <br>
 My current project concludes with clustering analysis.<br> In the future, I plan to conduct deeper investigation on each cluster profiles to interpret key differences between groups.
