@@ -38,5 +38,5 @@ Daily Steps: The number of steps the person takes per day.
 Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
 
-🔧 Possible Improvements
+🔧 Possible Improvements <br>
 My current project concludes with clustering analysis.<br> In the future, I plan to conduct deeper investigation on each cluster profiles to interpret key differences between groups.
